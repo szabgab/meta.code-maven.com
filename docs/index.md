@@ -26,7 +26,7 @@
 * [Ruby](https://ruby.code-maven.com/)
 * [SVG - Scalable Vector Graphics](https://svg.code-maven.com/)
 * [Geni Rust API](https://geni.code-maven.com/)
-* [OSDC - Open Source Development [Course | Club | Community | Company]](https://osdc.code-maven.com/)
+* [OSDC - Open Source Development Course / Club / Community / Company](https://osdc.code-maven.com/)
 
 ## Code-Maven Sites in other languages
 
