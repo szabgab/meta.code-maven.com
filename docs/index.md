@@ -9,6 +9,7 @@
 * [Banner Builder](https://banner-builder.code-maven.com/) (Rust Project)
 * [C Maven](https://c.code-maven.com/)
 * [C++ Maven](https://cpp.code-maven.com/)
+* [Crystal](https://crystal.code-maven.com/) programming language.
 * [DevOps Workshops](https://devops-workshops.code-maven.com/) (old)
 * [Virtual Rust Events](https://events.code-maven.com/)
 * [Exercises](https://exercises.code-maven.com/)
@@ -21,6 +22,7 @@
 * [Mdbook](https://mdbook.code-maven.com/)
 * [Mdbooks](https://mdbooks.code-maven.com/)
 * [Perl](https://perlmaven.com/) on the Perl Maven site.
+* [PHP](https://php.code-maven.com/) programming language.
 * [Rust](https://rust.code-maven.com/) on the Rust Maven site.
 * [Python Maven](https://python.code-maven.com/)
 * [Ruby](https://ruby.code-maven.com/)
