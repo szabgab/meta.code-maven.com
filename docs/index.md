@@ -26,6 +26,7 @@
 * [Mdbooks](https://mdbooks.code-maven.com/)
 * [Perl](https://perlmaven.com/) on the Perl Maven site.
 * [PHP](https://php.code-maven.com/) programming language.
+* [R Maven](https://r.code-maven.com/), the R programming language.
 * [Rust](https://rust.code-maven.com/) on the Rust Maven site.
 * [Python Maven](https://python.code-maven.com/)
 * [Ruby](https://ruby.code-maven.com/)
