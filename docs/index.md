@@ -20,6 +20,7 @@
 * [Experimental GitHub pages](https://github.code-maven.com/)
 * [Go Golang](https://go.code-maven.com/)
 * [Groovy](https://groovy.code-maven.com/), the programming language used for Jenkins pipelines.
+* [Java](https://java.code-maven.com/), the programming language.
 * [Linux](https://linux.code-maven.com/), the operating system.
 * [Mdbook](https://mdbook.code-maven.com/)
 * [Mdbooks](https://mdbooks.code-maven.com/)
