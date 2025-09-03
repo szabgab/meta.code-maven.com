@@ -10,6 +10,7 @@
 * [C Maven](https://c.code-maven.com/)
 * [C++ Maven](https://cpp.code-maven.com/)
 * [Crystal](https://crystal.code-maven.com/) programming language.
+* [Dart](https://dart.code-maven.com/) programming language.
 * [DevOps Workshops](https://devops-workshops.code-maven.com/) (old)
 * [Virtual Rust Events](https://events.code-maven.com/)
 * [Exercises](https://exercises.code-maven.com/)
@@ -19,6 +20,7 @@
 * [Experimental GitHub pages](https://github.code-maven.com/)
 * [Go Golang](https://go.code-maven.com/)
 * [Groovy](https://groovy.code-maven.com/), the programming language used for Jenkins pipelines.
+* [Linux](https://linux.code-maven.com/), the operating system.
 * [Mdbook](https://mdbook.code-maven.com/)
 * [Mdbooks](https://mdbooks.code-maven.com/)
 * [Perl](https://perlmaven.com/) on the Perl Maven site.
